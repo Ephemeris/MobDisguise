@@ -42,6 +42,8 @@ permissions:
             mobdisguise.mob.blaze: true
             mobdisguise.mob.magmacube: true
             mobdisguise.mob.enderdragon: true
+            mobdisguise.mob.ocelot: true
+            mobdisguise.mob.irongolem: true
             mobdisguise.mob.baby: true
     mobdisguise.mob.creeper:
         description: Allows a player to disguise as a creeper
@@ -111,6 +113,12 @@ permissions:
         default: op
     mobdisguise.mob.enderdragon: 
         description: Allows a player to disguise as an enderdragon
+        default: op
+    mobdisguise.mob.ocelot: 
+        description: Allows a player to disguise as an ocelot
+        default: op
+    mobdisguise.mob.irongolem: 
+        description: Allows a player to disguise as an irongolem
         default: op
     mobdisguise.mob.baby:
         description: Allows player to become a baby animal
